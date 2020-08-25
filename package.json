@@ -4,6 +4,9 @@
   "private": true,
   "author": "Moonki Lee <shinbaek89@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "ts": "tsc"
+  },
   "devDependencies": {
     "ts-loader": "^8.0.1",
     "typescript": "^3.9.7",
