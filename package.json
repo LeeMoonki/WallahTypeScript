@@ -5,7 +5,7 @@
   "author": "Moonki Lee <shinbaek89@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "ts": "tsc"
+    "ts": "rm -rf ts_dist && tsc"
   },
   "devDependencies": {
     "ts-loader": "^8.0.1",
