@@ -37,3 +37,20 @@ let reserve: Reserve = (
     // ...
   };
 }
+
+// 함수 선언식 오버로드
+/*
+function reserve(from: Date, to: Date, destination: string): Reservation
+function reserve(from: Date, to: string, destination?: string): Reservation
+function reserve(from: any, to: any, destination: any): Reservation {
+  if (typeof to === 'string') {
+    // 편도
+  } else {
+    // 왕복
+  }
+
+  return {
+    // ...
+  };
+}
+*/
