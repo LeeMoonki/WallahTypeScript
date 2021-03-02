@@ -5,7 +5,8 @@
     "module": "es6",
     "target": "es6",
     "jsx": "react",
-    "allowJs": true
+    "allowJs": true,
+    "isolatedModules": true,
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "**/*.spec.ts"],
