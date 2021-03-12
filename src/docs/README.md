@@ -24,6 +24,12 @@
 * [전달받은 제네릭을 사용해 다른 제네릭을 한정 (객체를 제네릭으로 받고 객체의 키 값을 다른 제네릭을 한 정할 때 활용)](./generic/generic_constraint_using_type.ts)
 * [제네릭을 한정할 때 super, sub 타입을 활용해서 상한을 정함](./generic/bound_polymorphism.ts)
 
+# Mapped Type
+* [index signature](./mapped_type/index_signature.ts)
+* [mapped type](./mapped_type/mapped_type.ts)
+* [mapping modifiers(remove readonly)](./mapped_type/mapping_modifiers.ts)
+* [mapping modifiers(remove optional)](./mapped_type/remove_optional.ts)
+
 # More
 
 * [keyof](./keyof.ts)
