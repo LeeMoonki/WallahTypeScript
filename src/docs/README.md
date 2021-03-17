@@ -38,3 +38,4 @@
 * [조건부 타입(Without 예제)](./conditional_type/without.ts)
 * [indexing type(객체의 속성 타입)](./indexing_type/indexed_access_type.ts)
 * [indexing type 사용예](./indexing_type/type_property_in_object_array.ts)
+* [interface의 union type](./interface/interface_union.ts)
