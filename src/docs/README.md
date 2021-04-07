@@ -39,3 +39,4 @@
 * [indexing type(객체의 속성 타입)](./indexing_type/indexed_access_type.ts)
 * [indexing type 사용예](./indexing_type/type_property_in_object_array.ts)
 * [interface의 union type](./interface/interface_union.ts)
+* [객체형 Enum 값을 타입으로 사용(객체의 속성값을 | 연산자로 타입화)](./enum_using_const_object.ts)
