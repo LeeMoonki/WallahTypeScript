@@ -35,7 +35,11 @@
 - [getter/setter](./class/getter_setter.ts)
 - [implements interface](./class/implements_interface.ts)
 - [extends](./class/extends.ts)
+- [protected와 override protected](./class/protected.ts)
+- [다른 계층간 protected 접근](./class/cross_hierarchy_protected_access.ts)
+- [같은 클래스 인스턴스간 private 접근](./class/cross_instance_private_access.ts)
 - [class generic](./class/generic.ts)
+- [런타임에서 this, class의 this 문제](./class/this_runtime.ts)
 
 # More
 
