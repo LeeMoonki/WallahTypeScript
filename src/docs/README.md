@@ -32,6 +32,7 @@
 
 # Class
 
+- [class의 값과 타입](./class/class.ts)
 - [getter/setter](./class/getter_setter.ts)
 - [implements interface](./class/implements_interface.ts)
 - [extends](./class/extends.ts)
