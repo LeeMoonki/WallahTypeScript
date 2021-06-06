@@ -5,6 +5,7 @@
 - [this](./this.ts)
 - [타입 별칭(type alias)](./type_alias.ts)
 - [타입 가드, is 연산자](./type_guard.ts)
+- [union, intersection](./union_intersection.ts)
 
 # Function
 
