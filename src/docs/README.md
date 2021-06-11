@@ -47,7 +47,7 @@
 - [this type guard 그리고 generic](./class/this_type_guard.ts)
 - [parameter properties; constructor의 정의와 properties 자동 매핑](./class/parameter_properties.ts)
 - [abstract](./class/abstract.ts)
-- [abstract construct sugnatures; 추상 클래스를 준수한 클래스를 타입으로 지정하고 내부에서 인스턴스화 해서 사용하고 싶을 때](./class/abstract_construct_signatures.ts)
+- [abstract construct signatures; 추상 클래스를 준수한 클래스를 타입으로 지정하고 내부에서 인스턴스화 해서 사용하고 싶을 때](./class/abstract_construct_signatures.ts)
 
 # More
 
