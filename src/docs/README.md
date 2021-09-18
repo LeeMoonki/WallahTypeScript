@@ -21,7 +21,7 @@
 - [제네릭 타입 추론](./generic/argument_inference.ts), [generic multi inference](./generic/generic_multi.ts)
 - [제네릭 함수 호출 시그니처](./generic/generic_make.ts)
 - [제네릭 Promise](./generic/generic_promise.ts)
-- [특정 속성 값을 갖도록 제네릭을 한정](./generic/generic_constraints.ts)
+- [특정 속성 값을 갖도록 제네릭을 한정 (extends in generic, Pick)](./generic/generic_constraints.ts)
 - [전달받은 제네릭을 사용해 다른 제네릭을 한정 (객체를 제네릭으로 받고 객체의 키 값을 다른 제네릭을 한 정할 때 활용)](./generic/generic_constraint_using_type.ts)
 - [제네릭을 한정할 때 super, sub 타입을 활용해서 상한을 정함](./generic/bound_polymorphism.ts)
 

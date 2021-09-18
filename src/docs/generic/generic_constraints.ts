@@ -12,3 +12,15 @@ function identityWithLoggingLength<Type extends Lengthwise>(arg: Type): Type {
   console.log(arg.length);
   return arg;
 }
+
+// Pick의 경우 다음과 같이 정의하면 문제가 발생한다.
+// type Pick1<T, K> = {
+//   // Type 'K' is not assignable to type 'string | number | symbol'.
+//   // Type 'K' is not assignable to type 'symbol'.
+//   [k in K]: T[k];
+// };
+
+// 따라서 다음과 같이 정의해야 한다.
+type Pick1<T, K extends keyof T> = {
+  [k in K]: T[k];
+};
