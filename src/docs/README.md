@@ -53,6 +53,7 @@
 
 - [keyof](./keyof.ts)
 - [typeof](./typeof.ts)
+- [readonly](./readonly.ts)
 - [조건부 타입](./conditional_type/conditional_type.ts)
 - [조건부 타입(Without 예제)](./conditional_type/without.ts)
 - [indexing type(객체의 속성 타입)](./indexing_type/indexed_access_type.ts)
